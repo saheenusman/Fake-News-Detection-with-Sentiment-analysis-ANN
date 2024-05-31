@@ -1,1 +1,1 @@
-# saheenusman-Fake-News-Detection-with-Sentiment-analysis-ANN
+# Fake-News-Detection-with-Sentiment-analysis-ANN
